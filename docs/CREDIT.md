@@ -106,7 +106,7 @@
 
 #### Changes
 
-* Separated the logos into one file per image
+* [Separated the logos into one file per image](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/ba2f78337f8097e1f586d5dacc1f5d7b705f545b "View commit")
 
 ### [GFDL Logo][gnu-license-logos-gfdl-logo]
 
