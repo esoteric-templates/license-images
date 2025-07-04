@@ -74,7 +74,7 @@
 
 #### Changes
 
-* Removed unneeded `defs` element
+* [Removed unneeded `defs` element](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/b664790fc30756b9fa6051e7a761586374eb0498 "View commit")
 
 ### [Alternative Logos][gnu-license-logos-alternative-logos]
 
@@ -125,7 +125,7 @@
 
 #### Changes
 
-* Removed unneeded `defs` element
+* [Removed unneeded `defs` element](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/b664790fc30756b9fa6051e7a761586374eb0498 "View commit")
 
 [isc-license]: https://www.isc.org/licenses/ (The ISC License)
 
