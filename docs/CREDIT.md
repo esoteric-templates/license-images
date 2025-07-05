@@ -126,6 +126,7 @@
 #### Changes
 
 * [Removed unneeded `defs` element](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/b664790fc30756b9fa6051e7a761586374eb0498 "View commit")
+* Formatted the file
 
 [isc-license]: https://www.isc.org/licenses/ (The ISC License)
 
