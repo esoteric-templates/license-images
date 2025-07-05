@@ -128,6 +128,7 @@
 
 * [Removed unneeded `defs` element](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/b664790fc30756b9fa6051e7a761586374eb0498 "View commit")
 * [Formatted the file](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/d661b2e0cfb4b6f8bc7644337da6d093d325d5d8 "View commit")
+* Changed `namedview` element to `sodipodi:namedview`
 
 [isc-license]: https://www.isc.org/licenses/ (The ISC License)
 
