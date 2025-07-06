@@ -113,7 +113,7 @@
 
 * [Separated the logos into one file per image](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/ba2f78337f8097e1f586d5dacc1f5d7b705f545b "View commit")
 * [Added new lines at the end of the files](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/e03c549304000fb5bd4ca6e83b012a91027c2d9b "View commit")
-* Removed an unneeded `inkscape:perspective` element from each file
+* [Removed an unneeded `inkscape:perspective` element from each file](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/3c73c31b805e27bfb5956e4d9ca73563536976f1 "View commit")
 
 ### [GFDL Logo][gnu-license-logos-gfdl-logo]
 
