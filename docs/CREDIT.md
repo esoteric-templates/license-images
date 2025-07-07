@@ -143,6 +143,7 @@
 * [Changed `namedview` element to `sodipodi:namedview`](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/9efb8eb6479aa05c1a427c86fe8cdd4827ff2ac9 "View commit")
 * [Changed `RDF` element to `rdf:RDF`](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/101ac40726c5258cb106dece14571cad793ee9fe "View commit")
 * [Fixed the text font by changing the font name from `URW Palladio L` to `P052`](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/d138b401fae30bbe702ce902d21e6615d08e8f80 "View commit")
+* Updated the element `id`s to be more descriptive and consistent
 
 [isc-license]: https://www.isc.org/licenses/ (The ISC License)
 
