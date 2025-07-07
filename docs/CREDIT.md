@@ -26,6 +26,17 @@
 * [© 2025][status-badge-copyright] [Esoteric Enderman][status-badge-author]
 * [Licensed][status-badge-license-statement] under the [ISC License][status-badge-license] (also available [locally][isc-license-local-copy])
 
+## [Creative Commons][cc] [Icons][cc-icons]
+
+* By the [Creative Commons Team][cc-authors]
+* Licensed under the [Creative Commons Trademark Policy][cc-trademark-policy]
+
+### Files
+
+* [`cc.svg`][cc-icon] from [mirrors.creativecommons.org][cc-icon-remote]
+* [`by.svg`][cc-by-icon] from [mirrors.creativecommons.org][cc-by-icon-remote]
+* [`sa.svg`][cc-sa-icon] from [mirrors.creativecommons.org][cc-sa-icon-remote]
+
 ## [GNU License Logos][gnu-license-logos]
 
 ### AGPL 3.0, GPL 3.0, & LGPL 3.0 Logos + Variants
@@ -158,6 +169,21 @@
 [status-badge-license]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/blob/unfinished-1.0.0/assets/images/badges/unfinished.svg?plain=1#L117-123 (The license of the "unfinished" project status badge)
 
 
+[cc]: https://creativecommons.org/ (Creative Commons)
+
+[cc-icons]: https://creativecommons.org/mission/downloads#icons (Creative Commons icons)
+
+[cc-icon]: ./assets/images/icons/cc/cc.svg (The Creative Commons icon)
+[cc-by-icon]: ./assets/images/icons/cc/by.svg (The Creative Commons Attribution icon)
+[cc-sa-icon]: ./assets/images/icons/cc/by.svg (The Creative Commons ShareAlike icon)
+
+[cc-icon-remote]: https://mirrors.creativecommons.org/presskit/icons/cc.svg (The source of the Creative Commons icon)
+[cc-by-icon-remote]: https://mirrors.creativecommons.org/presskit/icons/by.svg (The source of the Creative Commons Attribution icon)
+[cc-sa-icon-remote]: https://mirrors.creativecommons.org/presskit/icons/sa.svg (The source of the Creative Commons ShareAlike icon)
+
+[cc-authors]: https://creativecommons.org/mission/team/ (The Creative Commons team)
+
+
 [gnu-license-logos]: https://www.gnu.org/graphics/license-logos.html (GNU License Logos)
 
 [gnu-license-logos-agpl-3.0-local-1]: ../assets/images/license/logos/gnu/agpl/3.0/agpl-3.0-1.svg (The AGPL 3.0 logo)
@@ -222,6 +248,9 @@
 
 [gnu-license-logos-gfdl-local]: ../assets/images/license/logos/gnu/gfdl.svg (The GFDL logo)
 [gnu-license-logos-gfdl-remote]: https://www.gnu.org/graphics/gfdl-logo.svg (The source of the GFDL logo)
+
+
+[cc-trademark-policy]: https://creativecommons.org/policies/#trademark (The Creative Commons Trademark Policy)
 
 
 [isc-license-local-copy]: ../docs/assets/text/licenses/LICENSE-ISC (The local copy of the ISC License)

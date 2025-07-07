@@ -29,6 +29,10 @@ By Aryeom Han & [Esoteric Enderman][author]
 
 The [GPL 3.0 or Later Logo][gpl-3.0-or-later] is licensed under [CC BY-SA 4.0][license-cc-by-sa].
 
+[![Creative Commons icon][cc-icon]][cc]
+[![Creative Commons Attribution icon][cc-by-icon]][license-cc-by-sa-remote]
+[![Creative Commons ShareAlike icon][cc-sa-icon]][license-cc-by-sa-remote]
+
 ### [GFDL Logo][gfdl]
 
 © 2007, 2008, 2011, 2018 [Free Software Foundation Incorporated][fsf]  
@@ -55,6 +59,13 @@ The [GFDL Logo][gfdl] is licensed under the [GFDL 1.3][license-gfdl].
 
 [gpl-3.0-or-later]: ./assets/images/license/logos/gnu/gpl/3.0/gpl-3.0-or-later.svg (The GPL 3.0 or later logo)
 [gfdl]: ./assets/images/license/logos/gnu/gfdl.svg (The GFDL logo)
+
+[cc]: https://creativecommons.org/ (Creative Commons)
+[license-cc-by-sa-remote]: https://creativecommons.org/licenses/by-sa/4.0/ (CC BY-SA 4.0)
+
+[cc-icon]: ./docs/assets/images/icons/cc/cc.svg (The Creative Commons icon)
+[cc-by-icon]: ./docs/assets/images/icons/cc/by.svg (The Creative Commons Attribution icon)
+[cc-sa-icon]: ./docs/assets/images/icons/cc/sa.svg (The Creative Commons ShareAlike icon)
 
 [status]: ./docs/assets/images/badges/unfinished.svg (The status of this project)
 [project-status]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/tree/main#unfinished (The status of this project)
