@@ -136,7 +136,7 @@
 [isc-license]: https://www.isc.org/licenses/ (The ISC License)
 
 [isc-license-local]: ../LICENSE (This project's license)
-[isc-license-readme]: ../README.md#license-badges-1 (The ISC License in the README.md file)
+[isc-license-readme]: ../README.md#license-images-1 (The ISC License in the README.md file)
 
 [isc-license-author]: https://www.isc.org/ (The Internet Systems Consortium)
 
