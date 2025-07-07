@@ -144,6 +144,7 @@
 * [Changed `RDF` element to `rdf:RDF`](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/101ac40726c5258cb106dece14571cad793ee9fe "View commit")
 * [Fixed the text font by changing the font name from `URW Palladio L` to `P052`](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/d138b401fae30bbe702ce902d21e6615d08e8f80 "View commit")
 * [Updated the element `id`s to be more descriptive and consistent](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/5f4006c8b644972b8566d88cd81813123966b7aa "View commit")
+* Smoothed out the outline of the paper scroll by removing unneeded nodes
 
 [isc-license]: https://www.isc.org/licenses/ (The ISC License)
 
