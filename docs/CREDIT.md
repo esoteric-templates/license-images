@@ -88,7 +88,7 @@
 * [Removed unneeded `defs` element](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/b664790fc30756b9fa6051e7a761586374eb0498 "View commit")
 * [Removed unneeded `inkscape:export-filename` property](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/95d1f5927261c9727973d0d1ac2d140380c6fc64 "View commit")
 * [Removed all elements that were outside the width and height of the image and therefore invisible](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/cbda3111e36f504d7567a061769602ca25c41a70 "View commit")
-* Removed two unneeded, tiny elements that were practically invisible
+* [Removed two unneeded, tiny elements that were practically invisible](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/20b93195aa71da91350f5542cdf8a22d2931150d "View commit")
 
 ### [Alternative Logos][gnu-license-logos-alternative-logos]
 
