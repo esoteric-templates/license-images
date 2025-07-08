@@ -77,7 +77,10 @@
 ### [GPL 3.0 or Later Logo][gnu-license-logos-gpl-3.0-or-later]
 
 * By Aryeom Han
-* Licensed under [CC BY-SA 4.0][gnu-license-logos-gpl-3.0-or-later-license]
+* Licensed under [CC BY-SA 4.0][gnu-license-logos-gpl-3.0-or-later-license]  
+  [![Creative Commons icon][cc-icon]][cc]
+  [![Creative Commons Attribution icon][cc-by-icon]][gnu-license-logos-gpl-3.0-or-later-license]
+  [![Creative Commons ShareAlike icon][cc-sa-icon]][gnu-license-logos-gpl-3.0-or-later-license]
 
 #### Files
 
@@ -93,7 +96,9 @@
 ### [Alternative Logos][gnu-license-logos-alternative-logos]
 
 * © 2012 Christian Cadena
-* Licensed under [CC BY 3.0][gnu-license-logos-alternative-logos-license]
+* Licensed under [CC BY 3.0][gnu-license-logos-alternative-logos-license]  
+  [![Creative Commons icon][cc-icon]][cc]
+  [![Creative Commons Attribution icon][cc-by-icon]][gnu-license-logos-alternative-logos-license]
 
 #### Files
 
@@ -132,7 +137,8 @@
 
 * By Martin Owens
 * © 2007, 2008, 2011, 2018 [Free Software Foundation Incorporated][gnu-license-logos-gfdl-logo-copyright-owner]
-* Licensed under the [GFDL 1.3][gnu-license-logos-gfdl-logo-license]
+* Licensed under the [GFDL 1.3][gnu-license-logos-gfdl-logo-license]  
+  [![GFDL Logo][gnu-license-logos-gfdl-local]][gnu-license-logos-gfdl-logo-license]
 
 #### Files
 
