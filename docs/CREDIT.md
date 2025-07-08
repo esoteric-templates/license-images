@@ -179,7 +179,7 @@
 
 [cc-icon]: ./assets/images/icons/cc/cc.svg (The Creative Commons icon)
 [cc-by-icon]: ./assets/images/icons/cc/by.svg (The Creative Commons Attribution icon)
-[cc-sa-icon]: ./assets/images/icons/cc/by.svg (The Creative Commons ShareAlike icon)
+[cc-sa-icon]: ./assets/images/icons/cc/sa.svg (The Creative Commons ShareAlike icon)
 
 [cc-icon-remote]: https://mirrors.creativecommons.org/presskit/icons/cc.svg (The source of the Creative Commons icon)
 [cc-by-icon-remote]: https://mirrors.creativecommons.org/presskit/icons/by.svg (The source of the Creative Commons Attribution icon)
