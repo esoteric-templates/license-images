@@ -92,7 +92,7 @@
 * [Removed unneeded `inkscape:export-filename` property](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/95d1f5927261c9727973d0d1ac2d140380c6fc64 "View commit")
 * [Removed all elements that were outside the width and height of the image and therefore invisible](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/cbda3111e36f504d7567a061769602ca25c41a70 "View commit")
 * [Removed two unneeded, tiny elements that were practically invisible](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/20b93195aa71da91350f5542cdf8a22d2931150d "View commit")
-* Changed the "OR LATER" text from a path to normal text
+* [Changed the "OR LATER" text from a path to normal text](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/e77e9c5fa9756e4e51ef7e7442ea4b4fe6c4decb "View commit")
 
 ### [Alternative Logos][gnu-license-logos-alternative-logos]
 
