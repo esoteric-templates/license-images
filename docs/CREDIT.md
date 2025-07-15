@@ -134,7 +134,7 @@
 * [Added new lines at the end of the files](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/e03c549304000fb5bd4ca6e83b012a91027c2d9b "View commit")
 * [Removed an unneeded `inkscape:perspective` element from each file](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/3c73c31b805e27bfb5956e4d9ca73563536976f1 "View commit")
 * [Converted paths to normal text in the non-"shiny" logos](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/38899848f412736287a97dd0c30deec68a8b851a "View commit")
-* Converted paths to normal text in the [non-"shiny" GNU licenses logo][gnu-license-logos-licenses-minimal-local]
+* [Converted paths to normal text in the ](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/c43c17432b7759597a1b4940b4e95635ee180e3e "View commit")[non-"shiny" GNU licenses logo][gnu-license-logos-licenses-minimal-local]
 
 ### [GFDL Logo][gnu-license-logos-gfdl-logo]
 
