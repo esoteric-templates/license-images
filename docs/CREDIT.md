@@ -14,7 +14,7 @@
 
 ## The [GFDL 1.3][gfdl]
 
-* © 2000, 2001, 2002, 2007, 2008 [Free Software Foundation Incorporated][gfdl-author]
+* © 2000-2002, 2007-2008 [Free Software Foundation Incorporated][gfdl-author]
 * Verbatim copying and distribution allowed, changing not allowed
 
 ### Files
@@ -139,7 +139,7 @@
 ### [GFDL Logo][gnu-license-logos-gfdl-logo]
 
 * By Martin Owens
-* © 2007, 2008, 2011, 2018 [Free Software Foundation Incorporated][gnu-license-logos-gfdl-logo-copyright-owner]
+* © 2007-2008, 2011, 2018 [Free Software Foundation Incorporated][gnu-license-logos-gfdl-logo-copyright-owner]
 * Licensed under the [GFDL 1.3][gnu-license-logos-gfdl-logo-license]  
   [![GFDL Logo][gnu-license-logos-gfdl-local]][gnu-license-logos-gfdl-logo-license]
 
