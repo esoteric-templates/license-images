@@ -347,7 +347,7 @@
    id="g97">
 			<text
    xml:space="preserve"
-   style="font-weight:bold;font-size:6.77973px;font-family:MicroMieps;-inkscape-font-specification:'MicroMieps Bold';fill-rule:evenodd;stroke-width:10.2496;paint-order:markers fill stroke"
+   style="font-weight:bold;font-size:6.77973px;font-family:MicroMieps;-inkscape-font-specification:'MicroMieps Bold';fill-rule:evenodd;stroke-width:10.2496;paint-order:markers fill stroke;fill:white"
    x="143.97862"
    y="130.6906"
    id="text357"
@@ -379,7 +379,7 @@
    id="g131">
 	<text
    xml:space="preserve"
-   style="font-size:26.5586px;font-family:Masque;-inkscape-font-specification:Masque;display:inline;fill:white;fill-rule:evenodd;stroke-width:40.1516;paint-order:markers fill stroke"
+   style="font-size:26.5586px;font-family:Masque;-inkscape-font-specification:Masque;display:inline;fill:black;fill-rule:evenodd;stroke-width:40.1516;paint-order:markers fill stroke"
    x="240.92348"
    y="217.24545"
    id="text347"
@@ -388,7 +388,7 @@
      id="tspan345"
      x="240.92348"
      y="217.24545"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MicroMieps;-inkscape-font-specification:MicroMieps;fill:white;stroke-width:40.1516">3</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MicroMieps;-inkscape-font-specification:MicroMieps;fill:black;stroke-width:40.1516">3</tspan></text>
 	</g>
 </g>
 </svg>
