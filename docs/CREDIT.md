@@ -138,7 +138,7 @@
 * [Converted non-gradient and non-shadow paths to normal text in the minimal "shiny" logos](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/5fd40f52ff4b11bb3eb15aa07602415079d78e39 "View commit")
 * [Converted non-gradient and non-shadow paths to normal text in the non-minimal "shiny" logos](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/a39c172f64ba38a339cd51dc554b32e83e896c44 "View commit")
 * [Converted paths to normal text in the logo in the ](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/d3fc9cbc03cf25fd2252cb197016b5bf37f0b227 "View commit")[GPL 3.0 typography image][gnu-license-logos-gpl-3.0-alternative-typography-local]
-* Converted paths to normal text in the [GPL 3.0 typography image][gnu-license-logos-gpl-3.0-alternative-typography-local]
+* [Converted paths to normal text in the ](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/04442e8b08ad00ee76824f3b2e4d29ca23c441c1 "View commit")[GPL 3.0 typography image][gnu-license-logos-gpl-3.0-alternative-typography-local]
 
 ### [GFDL Logo][gnu-license-logos-gfdl-logo]
 
