@@ -361,10 +361,17 @@
      style="fill:url(#linearGradient4203);fill-opacity:1"
      transform="translate(5.0732821,75.78032)"
      id="g4233">
-		<path
-   d="M 744.663,295.604 L 764.117,295.604 L 734.149,346.104 C 732.437,348.918 730.767,351.084 729.14,352.602 C 727.511,354.121 726.007,355.224 724.628,355.914 C 723.248,356.604 722.062,357.005 721.068,357.114 C 720.075,357.225 719.383,357.28 718.999,357.28 L 701.116,357.28 L 701.116,313.652 L 717.84,313.652 L 717.923,343.62 L 744.663,295.604 z"
-   id="path4235"
-   style="fill:url(#linearGradient4203);fill-opacity:1.0" />
+		<text
+   xml:space="preserve"
+   style="fill:url(#linearGradient4203);fill-opacity:1;font-size:82.7872px;font-family:Masque;-inkscape-font-specification:Masque;text-align:end;text-anchor:end;fill-rule:evenodd;stroke-width:4.25472;paint-order:markers fill stroke"
+   x="754.76208"
+   y="357.36279"
+   id="text360"><tspan
+     sodipodi:role="line"
+     id="tspan358"
+     x="754.76208"
+     y="357.36279"
+     style="fill:url(#linearGradient4203);fill-opacity:1.0;stroke-width:4.25472">V</tspan></text>
 	</g><g
      transform="translate(5.0732821,75.78032)"
      id="g4237">

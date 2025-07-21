@@ -481,10 +481,17 @@
        id="g4091"
        transform="translate(13.369724,31.384113)"
        style="fill:url(#linearGradient4461);fill-opacity:1">
-		<path
-   style="fill:url(#linearGradient4461);fill-opacity:1"
-   id="path4093"
-   d="M 743.638,439.604 L 763.092,439.604 L 733.124,490.104 C 731.412,492.918 729.742,495.084 728.115,496.602 C 726.486,498.121 724.982,499.224 723.603,499.914 C 722.223,500.604 721.037,501.005 720.043,501.114 C 719.05,501.225 718.358,501.28 717.974,501.28 L 700.091,501.28 L 700.091,457.652 L 716.815,457.652 L 716.898,487.62 L 743.638,439.604 z" />
+		<text
+   xml:space="preserve"
+   style="fill:url(#linearGradient4461);fill-opacity:1;font-size:82.7858px;font-family:Masque;-inkscape-font-specification:Masque;text-align:end;text-anchor:end;fill-rule:evenodd;stroke-width:4.25465;paint-order:markers fill stroke"
+   x="753.73724"
+   y="501.36279"
+   id="text379"><tspan
+     sodipodi:role="line"
+     id="tspan377"
+     x="753.73724"
+     y="501.36279"
+     style="stroke-width:4.25465;fill-opacity:1;fill:url(#linearGradient4461)">V</tspan></text>
 	</g><g
        id="g4125"
        transform="translate(13.369724,31.384113)">

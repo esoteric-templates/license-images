@@ -426,10 +426,17 @@
        id="g4078"
        transform="translate(18.701844,5.1611194)"
        style="fill:url(#linearGradient4311);fill-opacity:1">
-			<path
-   d="M 483.223,164.577 L 502.677,164.577 L 472.709,215.077 C 470.997,217.892 469.327,220.058 467.699,221.576 C 466.071,223.094 464.567,224.198 463.187,224.887 C 461.808,225.578 460.621,225.978 459.628,226.088 C 458.634,226.199 457.942,226.254 457.558,226.254 L 439.676,226.254 L 439.676,182.626 L 456.4,182.626 L 456.482,212.594 L 483.223,164.577 z"
-   id="path4080"
-   style="fill:url(#linearGradient4003);fill-opacity:1" />
+			<text
+   xml:space="preserve"
+   style="font-size:82.7871px;font-family:Masque;-inkscape-font-specification:Masque;text-align:end;text-anchor:end;fill:url(#linearGradient4003);fill-rule:evenodd;stroke-width:4.25472;paint-order:markers fill stroke;fill-opacity:1"
+   x="493.32205"
+   y="226.33588"
+   id="text1372"><tspan
+     sodipodi:role="line"
+     id="tspan1370"
+     x="493.32205"
+     y="226.33588"
+     style="fill:url(#linearGradient4003);fill-opacity:1;stroke-width:4.25472">V</tspan></text>
 		</g><g
        id="g3622"
        transform="translate(19.129604,5.4459484)"

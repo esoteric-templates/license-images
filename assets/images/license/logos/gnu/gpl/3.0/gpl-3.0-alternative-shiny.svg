@@ -434,10 +434,17 @@
      style="fill:url(#linearGradient3881);fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      transform="translate(3.7826799,5.1611126)"
      id="g2628">
-		<path
-   d="M 236.283,164.577 L 255.738,164.577 L 225.77,215.077 C 224.059,217.892 222.389,220.058 220.761,221.576 C 219.133,223.094 217.629,224.198 216.249,224.887 C 214.869,225.578 213.683,225.978 212.689,226.088 C 211.696,226.199 211.004,226.254 210.619,226.254 L 192.737,226.254 L 192.737,182.626 L 209.46,182.626 L 209.543,212.594 L 236.283,164.577 z"
-   id="path2630"
-   style="fill:url(#linearGradient3879);fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+		<text
+   xml:space="preserve"
+   style="font-size:82.7871px;font-family:Masque;-inkscape-font-specification:Masque;text-align:end;text-anchor:end;fill:url(#linearGradient3879);fill-rule:evenodd;stroke-width:4.25474;paint-order:markers fill stroke;fill-opacity:1"
+   x="246.38306"
+   y="226.33679"
+   id="text2105"><tspan
+     sodipodi:role="line"
+     id="tspan2103"
+     x="246.38306"
+     y="226.33679"
+     style="fill:url(#linearGradient3879);fill-opacity:1;stroke-width:4.25474">V</tspan></text>
 	</g><rect
      style="fill:url(#linearGradient4400);fill-opacity:1"
      id="rect2634"

@@ -375,10 +375,17 @@
      style="fill:url(#linearGradient4241);fill-opacity:1"
      transform="translate(-3.1604977,75.78032)"
      id="g4187">
-		<path
-   d="M 600.663,295.604 L 620.117,295.604 L 590.149,346.104 C 588.437,348.918 586.767,351.084 585.14,352.602 C 583.511,354.121 582.007,355.224 580.628,355.914 C 579.248,356.604 578.062,357.005 577.068,357.114 C 576.075,357.225 575.383,357.28 574.999,357.28 L 557.116,357.28 L 557.116,313.652 L 573.84,313.652 L 573.923,343.62 L 600.663,295.604 z"
-   id="path4189"
-   style="fill:url(#linearGradient4241);fill-opacity:1" />
+		<text
+   xml:space="preserve"
+   style="fill:url(#linearGradient4241);fill-opacity:1;font-weight:500;font-size:82.6762px;font-family:Lunchtype22;-inkscape-font-specification:'Lunchtype22 Medium';text-align:end;text-anchor:end;fill-rule:evenodd;stroke-width:4.24902;paint-order:markers fill stroke"
+   x="610.7746"
+   y="357.28"
+   id="text939"><tspan
+     sodipodi:role="line"
+     id="tspan937"
+     x="610.7746"
+     y="357.28"
+     style="fill:url(#linearGradient4241);fill-opacity:1;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Masque;-inkscape-font-specification:Masque;stroke-width:4.24902">V</tspan></text>
 	</g><g
      transform="translate(-3.1604977,75.78032)"
      id="g4191">

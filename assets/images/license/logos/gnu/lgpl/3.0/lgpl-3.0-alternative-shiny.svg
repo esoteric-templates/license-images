@@ -414,10 +414,17 @@
      style="fill:#16813d" /><g
      transform="translate(7.1810166,5.3466228)"
      id="g4128">
-		<path
-   d="M 740.254,164.577 L 759.708,164.577 L 729.74,215.077 C 728.028,217.892 726.358,220.058 724.73,221.576 C 723.102,223.094 721.598,224.198 720.218,224.887 C 718.839,225.578 717.652,225.978 716.659,226.088 C 715.665,226.199 714.973,226.254 714.589,226.254 L 696.707,226.254 L 696.707,182.626 L 713.431,182.626 L 713.513,212.594 L 740.254,164.577 z"
-   id="path4130"
-   style="fill:#16813d" />
+		<text
+   id="text376"
+   style="fill:#16813d;font-size:82.787px;font-family:Masque;-inkscape-font-specification:Masque;text-align:end;text-anchor:end;fill-rule:evenodd;stroke-width:4.25472;paint-order:markers fill stroke;fill-opacity:1"
+   xml:space="preserve"
+   x="750.35303"
+   y="226.33676"><tspan
+     sodipodi:role="line"
+     id="tspan374"
+     x="750.35303"
+     y="226.33676"
+     style="fill:#16813d;fill-opacity:1;stroke-width:4.25472">V</tspan></text>
 	</g><g
      style="fill:#000000"
      transform="translate(7.4212679,5.7069997)"
