@@ -162,6 +162,7 @@
 * [Updated the element `id`s to be more descriptive and consistent](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/5f4006c8b644972b8566d88cd81813123966b7aa "View commit")
 * [Smoothed out the outline of the paper scroll by removing unneeded nodes](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/9ab182ee7ce02cb7a459caa59761f8dc434e8d83 "View commit")
 * [Improved the spiral by making it a bit smoother](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/4d69284c4cd29cfaaff15cfe7200c9dc571f68d2 "View commit")
+* Improved the "flag"/banner on the paper scroll by better aligning it with the paper scroll itself
 
 [isc-license]: https://www.isc.org/licenses/ (The ISC License)
 
