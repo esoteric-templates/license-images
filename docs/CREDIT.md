@@ -164,6 +164,7 @@
 * [Improved the spiral by making it a bit smoother](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/4d69284c4cd29cfaaff15cfe7200c9dc571f68d2 "View commit")
 * [Improved the "flag"/banner on the paper scroll by better aligning it with the paper scroll itself](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/e9245b82cfb113f3d51bd068bdd1ca7599039802 "View commit")
 * [Resized to fit content](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/859057635ae06397427bd4c0195f9d384734b2ef "View commit")
+* Used an `ellipse` element instead of a `path`
 
 [isc-license]: https://www.isc.org/licenses/ (The ISC License)
 
