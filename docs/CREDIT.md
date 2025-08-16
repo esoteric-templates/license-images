@@ -140,7 +140,7 @@
 * [Converted paths to normal text in the logo in the ](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/d3fc9cbc03cf25fd2252cb197016b5bf37f0b227 "View commit")[GPL 3.0 typography image][gnu-license-logos-gpl-3.0-alternative-typography-local]
 * [Converted paths to normal text in the ](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/04442e8b08ad00ee76824f3b2e4d29ca23c441c1 "View commit")[GPL 3.0 typography image][gnu-license-logos-gpl-3.0-alternative-typography-local]
 * [Converted letters V (for version) in the "shiny" logos from paths to normal text](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/d80747619b931033dce46def2b88e2bbdc9ddd07 "View commit")
-* Embedded the [Masque](../assets/fonts/Masque.ttf "The Masque font") font as base 64 into the SVG files.
+* [Embedded the ](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/f0030457f3284b194d3e25dd7a6eecba55366369 "View commit")[Masque](../assets/fonts/Masque.ttf "The Masque font")[ font as base 64 into the SVG files](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/f0030457f3284b194d3e25dd7a6eecba55366369 "View commit")
 
 ### [GFDL Logo][gnu-license-logos-gfdl-logo]
 
