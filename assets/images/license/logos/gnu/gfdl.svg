@@ -20,7 +20,7 @@
 	<metadata id="metadata">
 		<rdf:RDF>
 			<Work rdf:about="">
-				<title></title>
+				<title>GFDL License Logo &amp; License Images Icon</title>
 
 				<format>image/svg+xml</format>
 				<type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
