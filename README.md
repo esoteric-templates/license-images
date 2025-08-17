@@ -1,4 +1,4 @@
-# License Images
+# [License Images][project-remote]
 
 <sup>By [Esoteric Enderman][author]</sup>
 
@@ -47,6 +47,7 @@ The [GFDL Logo][gfdl] is licensed under the [GFDL 1.3][license-gfdl].
 <sup>[agpl v3+](https://gitlab.com/explore/projects/topics/AGPL+V3+ "GitLab topic: 'AGPL V3+'"), [agpl3](https://gitlab.com/explore/projects/topics/AGPL3 "GitLab topic: 'AGPL3'"), [gnu gpl3](https://gitlab.com/explore/projects/topics/GNU+GPL3 "GitLab topic: 'GNU GPL3'"), [gpl](https://gitlab.com/explore/projects/topics/GPL "GitLab topic: 'GPL'"), [agpl](https://gitlab.com/explore/projects/topics/agpl "GitLab topic: 'agpl'"), [agplv3](https://gitlab.com/explore/projects/topics/agplv3 "GitLab topic: 'agplv3'"), [badge](https://gitlab.com/explore/projects/topics/badge "GitLab topic: 'badge'"), [badges](https://gitlab.com/explore/projects/topics/badges "GitLab topic: 'badges'"), [gpl3](https://gitlab.com/explore/projects/topics/gpl3 "GitLab topic: 'gpl3'"), [gplv3](https://gitlab.com/explore/projects/topics/gplv3 "GitLab topic: 'gplv3'"), [image](https://gitlab.com/explore/projects/topics/image "GitLab topic: 'image'"), [images](https://gitlab.com/explore/projects/topics/images "GitLab topic: 'images'"), [lgpl](https://gitlab.com/explore/projects/topics/lgpl "GitLab topic: 'lgpl'"), [lgpl3](https://gitlab.com/explore/projects/topics/lgpl3 "GitLab topic: 'lgpl3'"), [license](https://gitlab.com/explore/projects/topics/license "GitLab topic: 'license'"), [licenses](https://gitlab.com/explore/projects/topics/licenses "GitLab topic: 'licenses'"), [open-source-licenses](https://gitlab.com/explore/projects/topics/open-source-licenses "GitLab topic: 'open-source-licenses'"), [readme](https://gitlab.com/explore/projects/topics/readme "GitLab topic: 'readme'"), [readme-badges](https://gitlab.com/explore/projects/topics/readme-badges "GitLab topic: 'readme-badges'"), [readme-md](https://gitlab.com/explore/projects/topics/readme-md "GitLab topic: 'readme-md'")</sup>
 
 [project]: ./ (This project)
+[project-remote]: https://gitlab.com/esoterictemplates/assets/images/license-images (This project)
 
 [author]: https://enderman.dev (Esoteric Enderman's website)
 [fsf]: https://www.fsf.org/ (The Free Software Foundation)
