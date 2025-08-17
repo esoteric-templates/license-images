@@ -141,7 +141,7 @@
 * [Converted paths to normal text in the ](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/04442e8b08ad00ee76824f3b2e4d29ca23c441c1 "View commit")[GPL 3.0 typography image][gnu-license-logos-gpl-3.0-alternative-typography-local]
 * [Converted letters V (for version) in the "shiny" logos from paths to normal text](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/d80747619b931033dce46def2b88e2bbdc9ddd07 "View commit")
 * [Embedded the ](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/f0030457f3284b194d3e25dd7a6eecba55366369 "View commit")[Masque](../assets/fonts/Masque.ttf "The Masque font")[ font as base 64 into the SVG files](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/f0030457f3284b194d3e25dd7a6eecba55366369 "View commit")
-* [Embedded the ](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/e134a62db0196dd1e26f9abc48cdd5adb98ba501)[MicroMieps](../assets/fonts/MicroMbd.TTF "The MicroMieps font")[ font as base 64 into the SVG files](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/e134a62db0196dd1e26f9abc48cdd5adb98ba501)
+* [Embedded the ](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/e134a62db0196dd1e26f9abc48cdd5adb98ba501 "View commit")[MicroMieps](../assets/fonts/MicroMbd.TTF "The MicroMieps font")[ font as base 64 into the SVG files](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/e134a62db0196dd1e26f9abc48cdd5adb98ba501 "View commit")
 * Corrected spelling of "typography" in the [GPL 3.0 typography image][gnu-license-logos-gpl-3.0-alternative-typography-local]
 
 ### [GFDL Logo][gnu-license-logos-gfdl-logo]
