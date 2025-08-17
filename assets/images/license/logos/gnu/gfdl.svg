@@ -22,6 +22,8 @@
 			<Work rdf:about="">
 				<title>GFDL License Logo &amp; License Images Icon</title>
 
+				<dc:license rdf:resource="https://gitlab.com/esoterictemplates/assets/images/license-images/-/raw/feat/gfdl-logo/LICENSE-GFDL" />
+
 				<format>image/svg+xml</format>
 				<type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
 			</Work>
