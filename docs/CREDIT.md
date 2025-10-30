@@ -21,9 +21,9 @@
 
 * [`LICENSE-GFDL`][gfdl-local] from [gnu.org][gfdl-remote]
 
-## [Project Status Badge: "Unfinished"][status-badge] [1.0.0][status-badge-1.0.0]
+## [Project Status Badge: "Unfinished"][status-badge] [1.0.1][status-badge-1.0.1]
 
-* [© 2025][status-badge-copyright] [Esoteric Enderman][status-badge-author]
+* [© 2025][status-badge-copyright] [Дима Ш.][status-badge-author]
 * [Licensed][status-badge-license-statement] under the [ISC License][status-badge-license] (also available [locally][isc-license-local-copy])
 
 ## [Creative Commons][cc] [Icons][cc-icons]
@@ -182,12 +182,12 @@
 
 
 [status-badge]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/blob/main/assets/images/badges/unfinished.svg?ref_type=heads (The "unfinished" project status badge)
-[status-badge-1.0.0]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/blob/unfinished-1.0.0/assets/images/badges/unfinished.svg (The "unfinished" project status badge 1.0.0)
+[status-badge-1.0.1]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/blob/unfinished-1.0.1/assets/images/badges/unfinished.svg (The "unfinished" project status badge 1.0.1)
 
-[status-badge-copyright]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/blob/unfinished-1.0.0/assets/images/badges/unfinished.svg?plain=1#L119 (The copyright notice of the "unfinished" project status badge)
-[status-badge-author]: https://enderman.dev (Esoteric Enderman)
+[status-badge-copyright]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/blob/unfinished-1.0.1/assets/images/badges/unfinished.svg?plain=1#L119 (The copyright notice of the "unfinished" project status badge)
+[status-badge-author]: https://gitlab.com/shdima (Дима Ш.)
 
-[status-badge-license-statement]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/blob/unfinished-1.0.0/assets/images/badges/unfinished.svg?plain=1#L116-124 (The license statement of the "unfinished" project status badge)
+[status-badge-license-statement]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/blob/unfinished-1.0.1/assets/images/badges/unfinished.svg?plain=1#L116-124 (The license statement of the "unfinished" project status badge)
 [status-badge-license]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/blob/unfinished-1.0.0/assets/images/badges/unfinished.svg?plain=1#L117-123 (The license of the "unfinished" project status badge)
 
 

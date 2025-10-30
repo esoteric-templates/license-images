@@ -46,7 +46,7 @@
 	<metadata>
 		<rdf:RDF>
 			<cc:Work rdf:about="">
-				<dc:title>Project Status Badge: 'Unfinished'</dc:title> <!-- 1.0.0 -->
+				<dc:title>Project Status Badge: 'Unfinished'</dc:title> <!-- 1.0.1 -->
 				<dc:description>A gray and yellow colored badge to indicate that a project is not finished and is still work in progress.</dc:description>
 
 				<dc:format>image/svg+xml</dc:format>
@@ -73,42 +73,42 @@
 
 				<dc:creator>
 					<cc:Agent>
-						<dc:title>Esoteric Enderman</dc:title>
-						<cc:attributionName>Esoteric Enderman</cc:attributionName>
+						<dc:title>Дима Ш.</dc:title>
+						<cc:attributionName>Дима Ш.</cc:attributionName>
 
-						<cc:homepage rdf:resource="https://enderman.dev/" />
-						<cc:attributionURL rdf:resource="https://enderman.dev/" />
+						<cc:homepage rdf:resource="https://gitlab.com/shdima/" />
+						<cc:attributionURL rdf:resource="https://gitlab.com/shdima/" />
 					</cc:Agent>
 				</dc:creator>
 				<dc:contributor>
 					<cc:Agent>
-						<dc:title>Esoteric Enderman</dc:title>
-						<cc:attributionName>Esoteric Enderman</cc:attributionName>
+						<dc:title>Дима Ш.</dc:title>
+						<cc:attributionName>Дима Ш.</cc:attributionName>
 
-						<cc:homepage rdf:resource="https://enderman.dev/" />
-						<cc:attributionURL rdf:resource="https://enderman.dev/" />
+						<cc:homepage rdf:resource="https://gitlab.com/shdima/" />
+						<cc:attributionURL rdf:resource="https://gitlab.com/shdima/" />
 					</cc:Agent>
 				</dc:contributor>
 				<dc:publisher>
 					<cc:Agent>
-						<dc:title>Esoteric Enderman</dc:title>
-						<cc:attributionName>Esoteric Enderman</cc:attributionName>
+						<dc:title>Дима Ш.</dc:title>
+						<cc:attributionName>Дима Ш.</cc:attributionName>
 
-						<cc:homepage rdf:resource="https://enderman.dev/" />
-						<cc:attributionURL rdf:resource="https://enderman.dev/" />
+						<cc:homepage rdf:resource="https://gitlab.com/shdima/" />
+						<cc:attributionURL rdf:resource="https://gitlab.com/shdima/" />
 					</cc:Agent>
 				</dc:publisher>
 				<dc:rightsHolder>
 					<cc:Agent>
-						<dc:title>Esoteric Enderman</dc:title>
-						<cc:attributionName>Esoteric Enderman</cc:attributionName>
+						<dc:title>Дима Ш.</dc:title>
+						<cc:attributionName>Дима Ш.</cc:attributionName>
 
-						<cc:homepage rdf:resource="https://enderman.dev/" />
-						<cc:attributionURL rdf:resource="https://enderman.dev/" />
+						<cc:homepage rdf:resource="https://gitlab.com/shdima/" />
+						<cc:attributionURL rdf:resource="https://gitlab.com/shdima/" />
 					</cc:Agent>
 				</dc:rightsHolder>
 
-				<dc:identifier rdf:resource="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/unfinished-1.0.0/assets/images/badges/unfinished.svg" />
+				<dc:identifier rdf:resource="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/unfinished-1.0.1/assets/images/badges/unfinished.svg" />
 
 				<dc:source rdf:resource="https://img.shields.io/badge/%F0%9F%9A%A7%20Project%20status-Unfinished-yellow?style=for-the-badge&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23project-status&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23unfinished" />
 				<dc:relation rdf:resource="https://shields.io/" />
@@ -116,17 +116,17 @@
 				<dc:rights>
 					ISC License
 
-					Copyright 2025 Esoteric Enderman
+					Copyright 2025 Дима Ш.
 
 					Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
 					THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 				</dc:rights>
-				<cc:license rdf:resource="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/unfinished-1.0.0/LICENSE" />
-				<dc:license rdf:resource="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/unfinished-1.0.0/LICENSE" />
+				<cc:license rdf:resource="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/unfinished-1.0.1/LICENSE" />
+				<dc:license rdf:resource="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/unfinished-1.0.1/LICENSE" />
 
 				<dc:created>2025-05-04</dc:created>
-				<dc:modified>2025-06-25</dc:modified>
+				<dc:modified>2025-10-27</dc:modified>
 
 				<!--
 				Credit
