@@ -1,6 +1,6 @@
 # [License Images][project-remote]
 
-<sup>By [Esoteric Enderman][author]</sup>
+<sup>By [Дима Ш.][author]</sup>
 
 [![Project status: unfinished][status]][project-status]
 
@@ -16,7 +16,7 @@ Usable and formatted versions of license images for some of the most popular dig
 
 ISC License
 
-Copyright 2025 Esoteric Enderman
+Copyright 2025 Дима Ш.
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
@@ -24,8 +24,8 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 ### [GPL 3.0 or Later Logo][gpl-3.0-or-later]
 
-By Aryeom Han & [Esoteric Enderman][author]  
-© 2025 [Esoteric Enderman][author]
+By Aryeom Han & [Дима Ш.][author]  
+© 2025 [Дима Ш.][author]
 
 The [GPL 3.0 or Later Logo][gpl-3.0-or-later] is licensed under [CC BY-SA 4.0][license-cc-by-sa].
 
@@ -36,7 +36,7 @@ The [GPL 3.0 or Later Logo][gpl-3.0-or-later] is licensed under [CC BY-SA 4.0][l
 ### [GFDL Logo][gfdl]
 
 © 2007, 2008, 2011, 2018 [Free Software Foundation Incorporated][fsf]  
-© 2025 [Esoteric Enderman][author]
+© 2025 [Дима Ш.][author]
 
 The [GFDL Logo][gfdl] is licensed under the [GFDL 1.3][license-gfdl].
 
@@ -49,7 +49,7 @@ The [GFDL Logo][gfdl] is licensed under the [GFDL 1.3][license-gfdl].
 [project]: ./ (This project)
 [project-remote]: https://gitlab.com/esoterictemplates/assets/images/license-images (This project)
 
-[author]: https://enderman.dev (Esoteric Enderman's website)
+[author]: https://gitlab.com/shdima (The author of this project)
 [fsf]: https://www.fsf.org/ (The Free Software Foundation)
 
 [credit]: ./docs/CREDIT.md (The credits for this project)
