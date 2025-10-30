@@ -88,11 +88,11 @@
 
 #### Changes
 
-* [Removed unneeded `defs` element](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/b664790fc30756b9fa6051e7a761586374eb0498 "View commit")
-* [Removed unneeded `inkscape:export-filename` property](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/95d1f5927261c9727973d0d1ac2d140380c6fc64 "View commit")
-* [Removed all elements that were outside the width and height of the image and therefore invisible](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/cbda3111e36f504d7567a061769602ca25c41a70 "View commit")
-* [Removed two unneeded, tiny elements that were practically invisible](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/20b93195aa71da91350f5542cdf8a22d2931150d "View commit")
-* [Changed the "OR LATER" text from a path to normal text](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/e77e9c5fa9756e4e51ef7e7442ea4b4fe6c4decb "View commit")
+* [Removed unneeded `defs` element](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/5843c228e55907bfeb340d08285f5bf1a35933de "View commit")
+* [Removed unneeded `inkscape:export-filename` property](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/8f64848b7c58a2bd9d118c54d97efe6c5c2031f9 "View commit")
+* [Removed all elements that were outside the width and height of the image and therefore invisible](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/750bbbeab3b8c58644e4c32f07842dc7ba29f17b "View commit")
+* [Removed two unneeded, tiny elements that were practically invisible](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/f76e963a6940eb725909a73fa73d56810eb295c0 "View commit")
+* [Changed the "OR LATER" text from a path to normal text](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/357e9fcfb36aee982b0f238cdcc5909efd967d77 "View commit")
 
 ### [Alternative Logos][gnu-license-logos-alternative-logos]
 
@@ -130,19 +130,19 @@
 
 #### Changes
 
-* [Separated the logos into one file per image](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/ba2f78337f8097e1f586d5dacc1f5d7b705f545b "View commit")
-* [Added new lines at the end of the files](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/e03c549304000fb5bd4ca6e83b012a91027c2d9b "View commit")
-* [Removed an unneeded `inkscape:perspective` element from each file](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/3c73c31b805e27bfb5956e4d9ca73563536976f1 "View commit")
-* [Converted paths to normal text in the non-"shiny" logos](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/38899848f412736287a97dd0c30deec68a8b851a "View commit")
-* [Converted paths to normal text in the ](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/c43c17432b7759597a1b4940b4e95635ee180e3e "View commit")[non-"shiny" GNU licenses logo][gnu-license-logos-licenses-minimal-local]
-* [Converted non-gradient and non-shadow paths to normal text in the minimal "shiny" logos](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/5fd40f52ff4b11bb3eb15aa07602415079d78e39 "View commit")
-* [Converted non-gradient and non-shadow paths to normal text in the non-minimal "shiny" logos](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/a39c172f64ba38a339cd51dc554b32e83e896c44 "View commit")
-* [Converted paths to normal text in the logo in the ](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/d3fc9cbc03cf25fd2252cb197016b5bf37f0b227 "View commit")[GPL 3.0 typography image][gnu-license-logos-gpl-3.0-alternative-typography-local]
-* [Converted paths to normal text in the ](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/04442e8b08ad00ee76824f3b2e4d29ca23c441c1 "View commit")[GPL 3.0 typography image][gnu-license-logos-gpl-3.0-alternative-typography-local]
-* [Converted letters V (for version) in the "shiny" logos from paths to normal text](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/d80747619b931033dce46def2b88e2bbdc9ddd07 "View commit")
-* [Embedded the ](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/f0030457f3284b194d3e25dd7a6eecba55366369 "View commit")[Masque](../assets/fonts/Masque.ttf "The Masque font")[ font as base 64 into the SVG files](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/f0030457f3284b194d3e25dd7a6eecba55366369 "View commit")
-* [Embedded the ](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/e134a62db0196dd1e26f9abc48cdd5adb98ba501 "View commit")[MicroMieps](../assets/fonts/MicroMbd.TTF "The MicroMieps font")[ font as base 64 into the SVG files](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/e134a62db0196dd1e26f9abc48cdd5adb98ba501 "View commit")
-* [Corrected spelling of "typography" in the ](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/56b63c7d569efa9438859697ce3b91567ec1f8f0 "View commit")[GPL 3.0 typography image][gnu-license-logos-gpl-3.0-alternative-typography-local]
+* [Separated the logos into one file per image](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/681ea7de7425d578673b4fe77a232a42a224cc2d "View commit")
+* [Added new lines at the end of the files](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/325b46e1852a5cdbbab21c3dcab8e26b68933ad8 "View commit")
+* [Removed an unneeded `inkscape:perspective` element from each file](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/ec71a00380ec155d979ce5aeba1dc37529e63d86 "View commit")
+* [Converted paths to normal text in the non-"shiny" logos](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/77eb775f6eba0b38367effbf237491b603cad5aa "View commit")
+* [Converted paths to normal text in the ](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/fc7aef2ff9fdce7310c52fde20395f0a3e57099c "View commit")[non-"shiny" GNU licenses logo][gnu-license-logos-licenses-minimal-local]
+* [Converted non-gradient and non-shadow paths to normal text in the minimal "shiny" logos](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/e9d7534c4e408924a3acf1662fa5d4c9b8ac250f "View commit")
+* [Converted non-gradient and non-shadow paths to normal text in the non-minimal "shiny" logos](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/fc04ac68c1a6e314016e15e931dae2807b400c4c "View commit")
+* [Converted paths to normal text in the logo in the ](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/1cb8fd23bd2709f87db9fb809252807c1b965dc9 "View commit")[GPL 3.0 typography image][gnu-license-logos-gpl-3.0-alternative-typography-local]
+* [Converted paths to normal text in the ](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/2171edeb3bb342f5f23f4ba2b2e30badbbcf6740 "View commit")[GPL 3.0 typography image][gnu-license-logos-gpl-3.0-alternative-typography-local]
+* [Converted letters V (for version) in the "shiny" logos from paths to normal text](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/e01ae199244fbb1cc37dd75bf0c88c1a7104b247 "View commit")
+* [Embedded the ](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/53748cbfe16c36bf5c9dbb19296c0490ae3765e5 "View commit")[Masque](../assets/fonts/Masque.ttf "The Masque font")[ font as base 64 into the SVG files](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/53748cbfe16c36bf5c9dbb19296c0490ae3765e5 "View commit")
+* [Embedded the ](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/9ca2868a2309366cf3ab02160f628b4ce49c8fb9 "View commit")[MicroMieps](../assets/fonts/MicroMbd.TTF "The MicroMieps font")[ font as base 64 into the SVG files](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/9ca2868a2309366cf3ab02160f628b4ce49c8fb9 "View commit")
+* [Corrected spelling of "typography" in the ](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/ef3d7767cf968667405a694977db89caac045cdd "View commit")[GPL 3.0 typography image][gnu-license-logos-gpl-3.0-alternative-typography-local]
 
 ### [GFDL Logo][gnu-license-logos-gfdl-logo]
 
@@ -157,14 +157,14 @@
 
 #### Changes
 
-* [Removed unneeded `defs` element](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/b664790fc30756b9fa6051e7a761586374eb0498 "View commit")
-* [Formatted the file](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/d661b2e0cfb4b6f8bc7644337da6d093d325d5d8 "View commit")
-* [Changed `namedview` element to `sodipodi:namedview`](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/9efb8eb6479aa05c1a427c86fe8cdd4827ff2ac9 "View commit")
-* [Changed `RDF` element to `rdf:RDF`](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/101ac40726c5258cb106dece14571cad793ee9fe "View commit")
-* [Fixed the text font by changing the font name from `URW Palladio L` to `P052`](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/d138b401fae30bbe702ce902d21e6615d08e8f80 "View commit")
-* [Updated the element `id`s to be more descriptive and consistent](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/5f4006c8b644972b8566d88cd81813123966b7aa "View commit")
-* [Smoothed out the outline of the paper scroll by removing unneeded nodes](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/9ab182ee7ce02cb7a459caa59761f8dc434e8d83 "View commit")
-* [Improved the spiral by making it a bit smoother](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/4d69284c4cd29cfaaff15cfe7200c9dc571f68d2 "View commit")
+* [Removed unneeded `defs` element](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/5843c228e55907bfeb340d08285f5bf1a35933de "View commit")
+* [Formatted the file](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/c9cec0edd6e8d9f304136129008876830aedf63b "View commit")
+* [Changed `namedview` element to `sodipodi:namedview`](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/49c2edc4ea9219019cfceb7b066c57c2986ce730 "View commit")
+* [Changed `RDF` element to `rdf:RDF`](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/d2c5e448438fdf79a3ced4bb6dd4bdc7846ebb60 "View commit")
+* [Fixed the text font by changing the font name from `URW Palladio L` to `P052`](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/f4221e10e5a56a21de499fd9c1a7cae909edd34c "View commit")
+* [Updated the element `id`s to be more descriptive and consistent](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/b4dcc21d5c576d9d89939b797b41c11823f1cb9f "View commit")
+* [Smoothed out the outline of the paper scroll by removing unneeded nodes](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/793a2be36392de48bf18544a2d699b55eeeb9be5 "View commit")
+* [Improved the spiral by making it a bit smoother](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/53f012e64bc1b4f8fa0a629938e2b81caba64ad5 "View commit")
 
 [isc-license]: https://www.isc.org/licenses/ (The ISC License)
 
