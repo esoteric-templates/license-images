@@ -165,6 +165,9 @@
 * [Updated the element `id`s to be more descriptive and consistent](https://gitlab.com/esoteric-templates/assets/images/license-images/-/commit/b4dcc21d5c576d9d89939b797b41c11823f1cb9f "View commit")
 * [Smoothed out the outline of the paper scroll by removing unneeded nodes](https://gitlab.com/esoteric-templates/assets/images/license-images/-/commit/793a2be36392de48bf18544a2d699b55eeeb9be5 "View commit")
 * [Improved the spiral by making it a bit smoother](https://gitlab.com/esoteric-templates/assets/images/license-images/-/commit/53f012e64bc1b4f8fa0a629938e2b81caba64ad5 "View commit")
+* [Improved the "flag"/banner on the paper scroll by better aligning it with the paper scroll itself](https://gitlab.com/esoteric-templates/assets/images/license-images/-/commit/30afedf4e746b1fff98210d865faba0ff593e903 "View commit")
+* [Resized to fit content](https://gitlab.com/esoteric-templates/assets/images/license-images/-/commit/3572b7acc0cefde12ac4f60aa98e3a163c2830e7 "View commit")
+* [Used an `ellipse` element instead of a `path`](https://gitlab.com/esoteric-templates/assets/images/license-images/-/commit/2b74b4c90219f2bad7c8faee7318220d0f1e1e46 "View commit")
 
 [isc-license]: https://www.isc.org/licenses/ (The ISC License)
 
