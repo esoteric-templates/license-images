@@ -2,7 +2,7 @@
 
 <sup>By [Дима Ш.][author]</sup>
 
-[![Project status: unfinished][status]][project-status]
+[![Project status: abandoned][status]][project-status]
 
 Usable and formatted versions of license images for some of the most popular digital content licenses.
 
@@ -71,5 +71,5 @@ The [GFDL Logo][gfdl] is licensed under the [GFDL 1.3][license-gfdl].
 [cc-by-icon]: ./docs/assets/images/icons/cc/by.svg (The Creative Commons Attribution icon)
 [cc-sa-icon]: ./docs/assets/images/icons/cc/sa.svg (The Creative Commons ShareAlike icon)
 
-[status]: ./docs/assets/images/badges/unfinished.svg (The status of this project)
-[project-status]: https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/tree/main#unfinished (The status of this project)
+[status]: ./docs/assets/images/badges/abandoned.svg (The status of this project)
+[project-status]: https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/tree/main#abandoned (The status of this project)

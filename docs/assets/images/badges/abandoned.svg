@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 
-<svg xml:lang="en" xmlns="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" width="255.75" height="28" viewBox="0 0 255.75 28" role="document" version="1.1">
-	<title>Project Status Badge: 'Unfinished'</title>
-	<desc>A gray and yellow colored badge to indicate that a project is not finished and is still work in progress.</desc>
+<svg xml:lang="en" xmlns="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" width="253.25" height="28" viewBox="0 0 253.25 28" role="document" version="1.1">
+	<title>Project Status Badge: 'Abandoned'</title>
+	<desc>A gray and red colored badge to indicate that a project is not complete, has been marked as abandoned and is not worked on anymore.</desc>
 
 	<!-- Do not add rounded edges or else this badge will look different to Shields.io badges! -->
-	<rect width="146.25" height="28" class="key" />
-	<rect x="146.25" width="109.5" height="28" class="status" />
+	<rect width="146" height="28" class="key" />
+	<rect x="146" width="107.25" height="28" class="status" />
 
 	<!-- The text here may or may not be perfectly centered. Regardless, it's best to leave everything as is, so that it's aligned with the text of Shields.io badges. -->
-	<a target="_blank" href="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#project-status" xlink:href="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#project-status">
-		<text x="73.125" y="17.5" textLength="122.25">
-			🚧 PROJECT STATUS
+	<a target="_blank" href="https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges#project-status" xlink:href="https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges#project-status">
+		<text x="73" y="17.5" textLength="122">
+			❌ PROJECT STATUS
 		</text>
 	</a>
-	<a target="_blank" href="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#unfinished" xlink:href="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#unfinished">
-		<text x="201" y="17.5" textLength="85.5" class="bold">
-			UNFINISHED
+	<a target="_blank" href="https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges#abandoned" xlink:href="https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges#abandoned">
+		<text x="199.625" y="17.5" textLength="83.25" class="bold">
+			ABANDONED
 		</text>
 	</a>
 
@@ -28,7 +28,7 @@
 			fill: #555;
 		}
 		rect.status {
-			fill: #dfb317;
+			fill: #e05d44;
 		}
 
 		text {
@@ -46,18 +46,18 @@
 	<metadata>
 		<rdf:RDF>
 			<cc:Work rdf:about="">
-				<dc:title>Project Status Badge: 'Unfinished'</dc:title> <!-- 1.0.1 -->
-				<dc:description>A gray and yellow colored badge to indicate that a project is not finished and is still work in progress.</dc:description>
+				<dc:title>Project Status Badge: 'Abandoned'</dc:title> <!-- 1.0.2 -->
+				<dc:description>A gray and red colored badge to indicate that a project is not complete, has been marked as abandoned and is not worked on anymore.</dc:description>
 
 				<dc:format>image/svg+xml</dc:format>
 
 				<dc:subject>
 					<rdf:Bag>
+						<rdf:li>abandon</rdf:li>
+						<rdf:li>unmaintained</rdf:li>
 						<rdf:li>unfinished</rdf:li>
 						<rdf:li>incomplete</rdf:li>
-						<rdf:li>WIP</rdf:li>
-						<rdf:li>work</rdf:li>
-						<rdf:li>progress</rdf:li>
+						<rdf:li>over</rdf:li>
 						<rdf:li>badge</rdf:li>
 						<rdf:li>status</rdf:li>
 						<rdf:li>project</rdf:li>
@@ -108,9 +108,9 @@
 					</cc:Agent>
 				</dc:rightsHolder>
 
-				<dc:identifier rdf:resource="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/unfinished-1.0.1/assets/images/badges/unfinished.svg" />
+				<dc:identifier rdf:resource="https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/raw/abandoned-1.0.2/assets/images/badges/abandoned.svg" />
 
-				<dc:source rdf:resource="https://img.shields.io/badge/%F0%9F%9A%A7%20Project%20status-Unfinished-yellow?style=for-the-badge&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23project-status&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23unfinished" />
+				<dc:source rdf:resource="https://img.shields.io/badge/%E2%9D%8C%20Project%20status-Abandoned-red?style=for-the-badge&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23project-status&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23abandoned" />
 				<dc:relation rdf:resource="https://shields.io/" />
 
 				<dc:rights>
@@ -122,11 +122,11 @@
 
 					THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 				</dc:rights>
-				<cc:license rdf:resource="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/unfinished-1.0.1/LICENSE" />
-				<dc:license rdf:resource="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/unfinished-1.0.1/LICENSE" />
+				<cc:license rdf:resource="https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/raw/abandoned-1.0.2/LICENSE" />
+				<dc:license rdf:resource="https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/raw/abandoned-1.0.2/LICENSE" />
 
 				<dc:created>2025-05-04</dc:created>
-				<dc:modified>2025-10-27</dc:modified>
+				<dc:modified>2025-11-05</dc:modified>
 
 				<!--
 				Credit

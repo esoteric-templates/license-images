@@ -21,7 +21,7 @@
 
 * [`LICENSE-GFDL`][gfdl-local] from [gnu.org][gfdl-remote]
 
-## [Project Status Badge: "Unfinished"][status-badge] [1.0.1][status-badge-1.0.1]
+## [Project Status Badge: "Abandoned"][status-badge] [1.0.2][status-badge-1.0.2]
 
 * [© 2025][status-badge-copyright] [Дима Ш.][status-badge-author]
 * [Licensed][status-badge-license-statement] under the [ISC License][status-badge-license] (also available [locally][isc-license-local-copy])
@@ -184,14 +184,14 @@
 [gfdl-remote]: https://www.gnu.org/licenses/fdl-1.3.txt (The source of the license of the GFDL logo)
 
 
-[status-badge]: https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/blob/main/assets/images/badges/unfinished.svg?ref_type=heads (The "unfinished" project status badge)
-[status-badge-1.0.1]: https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/blob/unfinished-1.0.1/assets/images/badges/unfinished.svg (The "unfinished" project status badge 1.0.1)
+[status-badge]: https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/blob/main/assets/images/badges/abandoned.svg?ref_type=heads (The "abandoned" project status badge)
+[status-badge-1.0.2]: https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/blob/abandoned-1.0.2/assets/images/badges/abandoned.svg (The "abandoned" project status badge 1.0.2)
 
-[status-badge-copyright]: https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/blob/unfinished-1.0.1/assets/images/badges/unfinished.svg?plain=1#L119 (The copyright notice of the "unfinished" project status badge)
+[status-badge-copyright]: https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/blob/abandoned-1.0.2/assets/images/badges/abandoned.svg?plain=1#L119 (The copyright notice of the "abandoned" project status badge)
 [status-badge-author]: https://gitlab.com/shdima (Дима Ш.)
 
-[status-badge-license-statement]: https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/blob/unfinished-1.0.1/assets/images/badges/unfinished.svg?plain=1#L116-124 (The license statement of the "unfinished" project status badge)
-[status-badge-license]: https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/blob/unfinished-1.0.0/assets/images/badges/unfinished.svg?plain=1#L117-123 (The license of the "unfinished" project status badge)
+[status-badge-license-statement]: https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/blob/abandoned-1.0.2/assets/images/badges/abandoned.svg?plain=1#L116-124 (The license statement of the "abandoned" project status badge)
+[status-badge-license]: https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/blob/abandoned-1.0.2/assets/images/badges/abandoned.svg?plain=1#L117-123 (The license of the "abandoned" project status badge)
 
 
 [cc]: https://creativecommons.org/ (Creative Commons)
