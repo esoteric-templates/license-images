@@ -162,9 +162,9 @@
 * [Updated the element `id`s to be more descriptive and consistent](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/5f4006c8b644972b8566d88cd81813123966b7aa "View commit")
 * [Smoothed out the outline of the paper scroll by removing unneeded nodes](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/9ab182ee7ce02cb7a459caa59761f8dc434e8d83 "View commit")
 * [Improved the spiral by making it a bit smoother](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/4d69284c4cd29cfaaff15cfe7200c9dc571f68d2 "View commit")
-* [Improved the "flag"/banner on the paper scroll by better aligning it with the paper scroll itself](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/e9245b82cfb113f3d51bd068bdd1ca7599039802 "View commit")
-* [Resized to fit content](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/859057635ae06397427bd4c0195f9d384734b2ef "View commit")
-* [Used an `ellipse` element instead of a `path`](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/ab3db00393a4198790fa56cb500632c2e3a3107f "View commit")
+* [Improved the "flag"/banner on the paper scroll by better aligning it with the paper scroll itself](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/30afedf4e746b1fff98210d865faba0ff593e903 "View commit")
+* [Resized to fit content](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/3572b7acc0cefde12ac4f60aa98e3a163c2830e7 "View commit")
+* [Used an `ellipse` element instead of a `path`](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/2b74b4c90219f2bad7c8faee7318220d0f1e1e46 "View commit")
 
 [isc-license]: https://www.isc.org/licenses/ (The ISC License)
 
