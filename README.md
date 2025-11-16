@@ -6,9 +6,11 @@
 
 Usable and formatted versions of license images for some of the most popular digital content licenses.
 
-## Information
+## Links
 
 * [Credit][credit]
+* [GitLab][project-remote]
+* [GitHub][project-github]
 
 ## Licenses
 
@@ -48,6 +50,7 @@ The [GFDL Logo][gfdl] is licensed under the [GFDL 1.3][license-gfdl].
 
 [project]: ./ (This project)
 [project-remote]: https://gitlab.com/esoteric-templates/assets/images/license-images (This project)
+[project-github]: https://github.com/esoteric-templates/license-images (This project on GitHub)
 
 [author]: https://gitlab.com/shdima (The author of this project)
 [fsf]: https://www.fsf.org/ (The Free Software Foundation)
