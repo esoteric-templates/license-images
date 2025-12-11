@@ -1,18 +1,19 @@
-# [License Images][project-remote]
-
-<sup>By [Дима Ш.][author]</sup>
+[License Images][project-remote]
+================================
 
 [![Project status: abandoned][status]][project-status]
 
 Usable and formatted versions of license images for some of the most popular digital content licenses.
 
-## Links
+Links
+-----
 
 * [Credit][credit]
 * [GitLab][project-remote]
 * [GitHub][project-github]
 
-## Licenses
+Licenses
+--------
 
 ### [License Images][project]
 
@@ -44,15 +45,11 @@ The [GFDL Logo][gfdl] is licensed under the [GFDL 1.3][license-gfdl].
 
 [![GFDL logo][gfdl]][license-gfdl]
 
-## Topics
-
-<sup>[agpl v3+](https://gitlab.com/explore/projects/topics/AGPL+V3+ "GitLab topic: 'AGPL V3+'"), [agpl3](https://gitlab.com/explore/projects/topics/AGPL3 "GitLab topic: 'AGPL3'"), [gnu gpl3](https://gitlab.com/explore/projects/topics/GNU+GPL3 "GitLab topic: 'GNU GPL3'"), [gpl](https://gitlab.com/explore/projects/topics/GPL "GitLab topic: 'GPL'"), [agpl](https://gitlab.com/explore/projects/topics/agpl "GitLab topic: 'agpl'"), [agplv3](https://gitlab.com/explore/projects/topics/agplv3 "GitLab topic: 'agplv3'"), [badge](https://gitlab.com/explore/projects/topics/badge "GitLab topic: 'badge'"), [badges](https://gitlab.com/explore/projects/topics/badges "GitLab topic: 'badges'"), [gpl3](https://gitlab.com/explore/projects/topics/gpl3 "GitLab topic: 'gpl3'"), [gplv3](https://gitlab.com/explore/projects/topics/gplv3 "GitLab topic: 'gplv3'"), [image](https://gitlab.com/explore/projects/topics/image "GitLab topic: 'image'"), [images](https://gitlab.com/explore/projects/topics/images "GitLab topic: 'images'"), [lgpl](https://gitlab.com/explore/projects/topics/lgpl "GitLab topic: 'lgpl'"), [lgpl3](https://gitlab.com/explore/projects/topics/lgpl3 "GitLab topic: 'lgpl3'"), [license](https://gitlab.com/explore/projects/topics/license "GitLab topic: 'license'"), [licenses](https://gitlab.com/explore/projects/topics/licenses "GitLab topic: 'licenses'"), [open-source-licenses](https://gitlab.com/explore/projects/topics/open-source-licenses "GitLab topic: 'open-source-licenses'"), [readme](https://gitlab.com/explore/projects/topics/readme "GitLab topic: 'readme'"), [readme-badges](https://gitlab.com/explore/projects/topics/readme-badges "GitLab topic: 'readme-badges'"), [readme-md](https://gitlab.com/explore/projects/topics/readme-md "GitLab topic: 'readme-md'")</sup>
-
 [project]: ./ (This project)
-[project-remote]: https://gitlab.com/esoteric-templates/assets/images/license-images (This project)
+[project-remote]: https://gitlab.com/-/p/70190007 (This project)
 [project-github]: https://github.com/esoteric-templates/license-images (This project on GitHub)
 
-[author]: https://gitlab.com/shdima (The author of this project)
+[author]: https://gitlab.com/-/u/24902750 (The author of this project)
 [fsf]: https://www.fsf.org/ (The Free Software Foundation)
 
 [credit]: ./docs/CREDIT.md (The credits for this project)

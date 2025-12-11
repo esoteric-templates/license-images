@@ -1,6 +1,8 @@
-# Credit
+Credit
+======
 
-## The [ISC License][isc-license]
+The [ISC License][isc-license]
+------------------------------
 
 * © 1995-2003 [Internet Software Consortium (ISC)][isc-license-author]
 * © 2004-2013 [Internet Systems Consortium Incorporated (ISC)][isc-license-author]
@@ -12,7 +14,8 @@
 * [`LICENSE-ISC`][isc-license-local-copy] template from [isc.org][isc-license]
 * [`README.md`][isc-license-readme] contains the [ISC License][isc-license]
 
-## The [GFDL 1.3][gfdl]
+The [GFDL 1.3][gfdl]
+--------------------
 
 * © 2000-2002, 2007-2008 [Free Software Foundation Incorporated][gfdl-author]
 * Verbatim copying and distribution allowed, changing not allowed
@@ -21,12 +24,14 @@
 
 * [`LICENSE-GFDL`][gfdl-local] from [gnu.org][gfdl-remote]
 
-## [Project Status Badge: "Abandoned"][status-badge] [1.0.2][status-badge-1.0.2]
+[Project Status Badge: "Abandoned"][status-badge] [1.0.3][status-badge-1.0.3]
+-----------------------------------------------------------------------------
 
 * [© 2025][status-badge-copyright] [Дима Ш.][status-badge-author]
 * [Licensed][status-badge-license-statement] under the [ISC License][status-badge-license] (also available [locally][isc-license-local-copy])
 
-## [Creative Commons][cc] [Icons][cc-icons]
+[Creative Commons][cc] [Icons][cc-icons]
+----------------------------------------
 
 * By the [Creative Commons Team][cc-authors]
 * Licensed under the [Creative Commons Trademark Policy][cc-trademark-policy]
@@ -37,7 +42,8 @@
 * [`by.svg`][cc-by-icon] from [mirrors.creativecommons.org][cc-by-icon-remote]
 * [`sa.svg`][cc-sa-icon] from [mirrors.creativecommons.org][cc-sa-icon-remote]
 
-## [GNU License Logos][gnu-license-logos]
+[GNU License Logos][gnu-license-logos]
+--------------------------------------
 
 ### AGPL 3.0, GPL 3.0, & LGPL 3.0 Logos + Variants
 
@@ -185,13 +191,13 @@
 
 
 [status-badge]: https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/blob/main/assets/images/badges/abandoned.svg?ref_type=heads (The "abandoned" project status badge)
-[status-badge-1.0.2]: https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/blob/abandoned-1.0.2/assets/images/badges/abandoned.svg (The "abandoned" project status badge 1.0.2)
+[status-badge-1.0.3]: https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/blob/abandoned-1.0.3/assets/images/badges/abandoned.svg (The "abandoned" project status badge 1.0.3)
 
-[status-badge-copyright]: https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/blob/abandoned-1.0.2/assets/images/badges/abandoned.svg?plain=1#L119 (The copyright notice of the "abandoned" project status badge)
-[status-badge-author]: https://gitlab.com/shdima (Дима Ш.)
+[status-badge-copyright]: https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/blob/abandoned-1.0.3/assets/images/badges/abandoned.svg?plain=1#L119 (The copyright notice of the "abandoned" project status badge)
+[status-badge-author]: https://gitlab.com/-/u/24902750 (Дима Ш.)
 
-[status-badge-license-statement]: https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/blob/abandoned-1.0.2/assets/images/badges/abandoned.svg?plain=1#L116-124 (The license statement of the "abandoned" project status badge)
-[status-badge-license]: https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/blob/abandoned-1.0.2/assets/images/badges/abandoned.svg?plain=1#L117-123 (The license of the "abandoned" project status badge)
+[status-badge-license-statement]: https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/blob/abandoned-1.0.3/assets/images/badges/abandoned.svg?plain=1#L116-124 (The license statement of the "abandoned" project status badge)
+[status-badge-license]: https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/blob/abandoned-1.0.3/assets/images/badges/abandoned.svg?plain=1#L117-123 (The license of the "abandoned" project status badge)
 
 
 [cc]: https://creativecommons.org/ (Creative Commons)
