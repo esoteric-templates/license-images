@@ -49,7 +49,7 @@ The [GFDL Logo][gfdl] is licensed under the [GFDL 1.3][license-gfdl].
 [project-remote]: https://gitlab.com/-/p/70190007 (This project)
 [project-github]: https://github.com/esoteric-templates/license-images (This project on GitHub)
 
-[author]: https://gitlab.com/shdima (The author of this project)
+[author]: https://shdima.gitlab.io/ (The author of this project)
 [fsf]: https://www.fsf.org/ (The Free Software Foundation)
 
 [credit]: ./docs/CREDIT.md (The credits for this project)
