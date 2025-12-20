@@ -194,7 +194,7 @@ The [GFDL 1.3][gfdl]
 [status-badge-1.0.3]: https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/blob/abandoned-1.0.3/assets/images/badges/abandoned.svg (The "abandoned" project status badge 1.0.3)
 
 [status-badge-copyright]: https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/blob/abandoned-1.0.3/assets/images/badges/abandoned.svg?plain=1#L119 (The copyright notice of the "abandoned" project status badge)
-[status-badge-author]: https://gitlab.com/-/u/24902750 (Дима Ш.)
+[status-badge-author]: https://gitlab.com/shdima (Дима Ш.)
 
 [status-badge-license-statement]: https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/blob/abandoned-1.0.3/assets/images/badges/abandoned.svg?plain=1#L116-124 (The license statement of the "abandoned" project status badge)
 [status-badge-license]: https://gitlab.com/esoteric-templates/assets/images/symbols/project-status-badges/-/blob/abandoned-1.0.3/assets/images/badges/abandoned.svg?plain=1#L117-123 (The license of the "abandoned" project status badge)
