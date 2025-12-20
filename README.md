@@ -15,7 +15,7 @@ Links
 Licenses
 --------
 
-### [License Images][project]
+### License Images
 
 ISC License
 
@@ -45,7 +45,6 @@ The [GFDL Logo][gfdl] is licensed under the [GFDL 1.3][license-gfdl].
 
 [![GFDL logo][gfdl]][license-gfdl]
 
-[project]: ./ (This project)
 [project-remote]: https://gitlab.com/-/p/70190007 (This project)
 [project-github]: https://github.com/esoteric-templates/license-images (This project on GitHub)
 
